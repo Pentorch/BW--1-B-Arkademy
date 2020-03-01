@@ -1,0 +1,12 @@
+body {
+     color: #fff;
+     background: url('../img/11111.jpg');
+     font-family: Barista Script;
+     background-size: cover;
+     background-attachment: fixed;
+     background-repeat: no-repeat;     /* Tambahkan baris berikut */
+}
+@font-face{
+    font-family: 'BaristaScript';
+    src: url('../fonts/BaristaScript.ttf');
+}
